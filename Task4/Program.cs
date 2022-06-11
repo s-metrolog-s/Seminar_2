@@ -2,10 +2,10 @@
 // и проверяет, кратно ли оно одновременно 7 и 23
 
 // Random rand = new Random();
-int N = 161; // rand.Next(100, 1000);
+int N = 16; // rand.Next(100, 1000);
 
 // if (N/7 == 0 && N%23 == 0)
-if (N = )
+if (N%(7*23) == 0)
 {
     Console.WriteLine("Число кратно 7 и 23");
 }
