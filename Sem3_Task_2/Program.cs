@@ -11,7 +11,7 @@ if (number == 1)
 {
     Console.WriteLine("Точка лежит в пределах, где X > 0; Y > 0");
 }
-else if (number == 2)
+else if (number == 2) 
 {
     Console.WriteLine("Точка лежит в пределах, где X < 0; Y > 0");
 }
